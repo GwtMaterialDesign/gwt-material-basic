@@ -194,3 +194,5 @@ target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 gwt-material-basic.iml
 .idea/
 .target/
+target/
+idea/
