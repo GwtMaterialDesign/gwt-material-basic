@@ -4,7 +4,7 @@
     <parent>
         <artifactId>gwt-material-parent</artifactId>
         <groupId>com.github.gwtmaterialdesign</groupId>
-        <version>1.6.0</version>
+        <version>2.0-rc4</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -20,7 +20,7 @@
         <gwt.version>2.7.0</gwt.version>
         <gwtp.version>1.4</gwtp.version>
         <gin.version>2.1.2</gin.version>
-        <gwt-material.version>1.6.0</gwt-material.version>
+        <gwt-material.version>2.0-rc4</gwt-material.version>
         <gwt.style>OBF</gwt.style>
 
         <!-- maven -->
